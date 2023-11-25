@@ -1,0 +1,68 @@
+{
+    "replace": false,
+    "values": [
+        "#sts:through_crops",
+        "#sts:carpet",
+        "#sts:grasses",
+        "#sts:flat_thing",
+        "#sts:small_mushroom",
+        "#sts:dead_corals",
+        "#sts:through_crops",
+
+        "#minecraft:rails",
+        "#minecraft:buttons",
+        "#minecraft:pressure_plates",
+        "#minecraft:candles",
+        "#minecraft:banners",
+        "#minecraft:signs",
+        "#minecraft:flowers",
+        "#minecraft:corals",
+        "#minecraft:saplings",
+        "#minecraft:fences",
+        "#minecraft:fence_gates",
+
+
+        
+
+
+        "minecraft:air",
+        "minecraft:water",
+        "minecraft:cobweb",
+        "minecraft:tripwire",
+        "minecraft:torch",
+        "minecraft:soul_torch",
+        "minecraft:redstone_torch",
+        "minecraft:lantern",
+        "minecraft:soul_lantern",
+        "minecraft:end_rod",
+        "minecraft:ladder",
+        "minecraft:oak_trapdoor",
+        "minecraft:acacia_trapdoor",
+        "minecraft:mangrove_trapdoor",
+        "minecraft:bamboo_trapdoor",
+        "minecraft:crimson_trapdoor",
+        "minecraft:warped_trapdoor",
+        "minecraft:iron_trapdoor",
+        "minecraft:chain",
+        "minecraft:iron_bars",
+        "minecraft:snow",
+        "minecraft:small_amethyst_bud",
+        "minecraft:medium_amethyst_bud",
+        "minecraft:large_amethyst_bud",
+        "minecraft:mangrove_roots",
+        "minecraft:bamboo_sapling",
+        "minecraft:scaffolding",
+        "minecraft:conduit",
+        "minecraft:flower_pot",
+        "minecraft:lever",
+        "minecraft:tripwire_hook",
+        "minecraft:kelp",
+        "minecraft:cave_vines",
+        "minecraft:weeping_vines_plant",
+        "minecraft:weeping_vines",
+        "minecraft:twisting_vines_plant",
+        "minecraft:twisting_vines"
+
+
+    ]
+  }

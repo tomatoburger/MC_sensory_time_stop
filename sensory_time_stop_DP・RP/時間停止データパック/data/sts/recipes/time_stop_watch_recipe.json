@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        " L ",
+        "gNg"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bell"
+        },
+        "C": {
+            "item": "minecraft:chain"
+        },
+        "L": {
+            "item": "minecraft:clock"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "N": {
+            "item": "minecraft:netherite_upgrade_smithing_template"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "sts:knife_recipe"
+      }
+    }
+  },
+  "rewards": {
+    "function": "sts:knife_crafted"
+  }
+}

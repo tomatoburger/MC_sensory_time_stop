@@ -1,0 +1,14 @@
+{
+    "values": [
+        "minecraft:armor_stand",
+        "minecraft:item",
+        "minecraft:item_frame",
+        "minecraft:item_display",
+        "minecraft:glow_item_frame",
+        "minecraft:text_display",
+        "minecraft:block_display",
+        "minecraft:painting",
+        "minecraft:experience_orb",
+        "#sts:throwing_object"
+    ]
+  }
