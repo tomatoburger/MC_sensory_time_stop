@@ -1,0 +1,64 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_ingot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 10
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blaze_powder",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_name",
+          "entity": "this",
+          "name": "時を止める時計"
+        },
+        {
+          "function": "minecraft:set_nbt",
+          "tag": "{CustomModelData:31310002}"
+        },
+        {
+          "function": "minecraft:set_count",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
